@@ -23,6 +23,9 @@ const Index = () => {
             <Button variant="link" color="white">
               Contact
             </Button>
+            <Button variant="link" color="white" as="a" href="/auth">
+              Login/Logout
+            </Button>
           </HStack>
         </Container>
       </Box>
