@@ -1,5 +1,6 @@
 import React from "react";
 import { Box, Container, Heading, Text, VStack, HStack, Button, IconButton, Image, Stack, Flex } from "@chakra-ui/react";
+import Navigation from "../components/Navigation.jsx";
 import { FaDumbbell, FaRunning, FaHeartbeat, FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa";
 
 const Index = () => {
